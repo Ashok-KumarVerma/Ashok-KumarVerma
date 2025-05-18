@@ -1,71 +1,101 @@
-<h1 align="left">Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> I'm Venkatesh Kamath</h1>
+<!-- Animated GitHub Profile README by ChatGPT -->
 
-<h3 align="left">A tech enthusiast who loves nature and photography 📷</h3>
+<h1 align="center">
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Venkatesh Kamath
+</h1>
 
-<p align="left">
+<h3 align="center">🚀 A Passionate MERN Stack Developer | Cloud Explorer | Nature Photographer 📸</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Loves+Cloud+and+Open+Source;Let’s+build+something+great!🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="venkateeshh" />
 </p>
 
+---
+
+### 🧑‍💻 About Me
 - 🔭 Currently working with **MERN Stack**
-- 🌱 Exploring **Cloud Services**
+- ☁️ Exploring **Cloud Services** and **Serverless Tech**
 - 💬 Ask me about **React, MongoDB, Java, etc.**
 - 👨‍💻 Portfolio: [venkateeshh.vercel.app](https://venkateeshh.vercel.app/)
-- 📫 Reach me at: **rkamathvenkatesh@gmail.com**
-- ⚡ Fun Fact: **I love capturing moments 📷**
+- 📧 Reach me at: **rkamathvenkatesh@gmail.com**
+- 📷 Fun Fact: **Capturing moments is my superpower!**
 
 ---
 
-## 🌐 Connect with me
+### 🌐 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Venkateeshh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkateeshh)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/venkateeshh)
-
----
-
-## 💻 Tech Stack
-
-**Languages**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/venkateeshh"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://instagram.com/venkateeshh"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://x.com/venkateeshh"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 💻 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=venkateeshh&theme=default&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=venkateeshh&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkateeshh&layout=compact&theme=default&hide_border=false)
+#### Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+
+#### Backend & Database  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+#### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+### 📈 GitHub Stats
 
-![](https://github-profile-trophy.vercel.app/?username=venkateeshh&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkateeshh&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=venkateeshh&theme=radical" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateeshh&layout=compact&theme=radical" width="40%">
+</p>
 
 ---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venkateeshh&theme=algolia&margin-w=10&no-frame=true"/>
+</p>
+
+---
+
+### 🎥 Fun Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="code animation" />
+</p>
+
+---
+
+> "Turning ideas into reality with code. Let’s innovate together!" 🚀
