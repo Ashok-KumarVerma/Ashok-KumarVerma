@@ -1,39 +1,37 @@
-<!-- GitHub Profile README by ChatGPT + Ashok Verma -->
+<!-- Animated GitHub Profile README by ChatGPT -->
 
 <h1 align="center">
-  नमस्ते 🙏 I'm Ashok Verma
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Ashok Kumar Verma
 </h1>
 
-<h3 align="center">🚀 AI/ML Enthusiast | Web Dev Explorer | GATE CS Aspirant</h3>
+<h3 align="center">🚀 A Software Engineer | AI & Ml  | WEB Developer 📸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;B.Tech+3rd+Year+CS+Student;AI+%7C+ML+%7C+Web+Development;Hackathons+%7C+Projects+%7C+Internships;Let’s+build+something+awesome!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Loves+Cloud+and+Open+Source;Let’s+build+something+great!🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashokverma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="venkateeshh" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-
-- 🎓 B.Tech 3rd Year – CSE  
-- 🎯 GATE CS 2025 Aspirant  
-- 💡 Exploring AI/ML, Web Automation, Resume Generators  
-- 💬 Ask me about Flask, Python, n8n, Web Scraping  
-- 🧪 Interested in Research & Internships at IITs/IISc/NCCS  
-- 🔗 [Portfolio Website](https://your-website-link.com) *(update this)*  
-- 📬 **Email:** your-email@example.com *(update this)*  
+- 🔭 Currently working with **FullStack Developer**
+- ☁️ Exploring **** and **Serverless Tech**
+- 💬 Ask me about **React, MongoDB, Java,c,sql, DSA  etc.**
+- 👨‍💻 Portfolio: [Ashok Kumar Varma.github.app](https://ashok-kumarverma.github.io/Personal-Portfolio-Application/)
+- 📧 Reach me at: **ashokmr86230@gmail.com**
+- 📷 Fun Fact: **Capturing moments is my superpower!**
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashokverma"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/ashokverma"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://linkedin.com/in/venkateeshh"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://instagram.com/venkateeshh"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://x.com/venkateeshh"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 </p>
 
 ---
@@ -41,34 +39,45 @@
 ### 💻 Tech Stack
 
 #### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-#### Backend & Tools  
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+#### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+
+#### Backend & Database  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n.io-FD5750?style=flat&logo=n8n&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 #### Tools & Platforms  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashokverma&show_icons=true&theme=github_dark" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashokverma&theme=github-dark" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=venkateeshh&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=venkateeshh&theme=radical" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokverma&layout=compact&theme=github_dark" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateeshh&layout=compact&theme=radical" width="40%">
 </p>
 
 ---
@@ -76,17 +85,17 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashokverma&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=venkateeshh&theme=algolia&margin-w=10&no-frame=true"/>
 </p>
 
 ---
 
-### 🎥 Code in Action
+### 🎥 Fun Animation
 
 <p align="center">
-  <img src="https://github.com/ashokverma/ashokverma/assets/animated-code.gif" width="450" alt="coding animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="code animation" />
 </p>
 
 ---
 
-> “Code. Learn. Repeat.” 🚀  
+> "Turning ideas into reality with code. Let’s innovate together!" 🚀
