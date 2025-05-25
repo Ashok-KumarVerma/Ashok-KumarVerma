@@ -1,84 +1,58 @@
-<!-- Animated GitHub Profile README by ChatGPT -->
-
-<h1 align="center">
-  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Ashok Kumar Verma
-</h1>
-
-<h3 align="center">🚀 A Software Engineer | AI & Ml  | WEB Developer 📸</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Loves+Cloud+and+Open+Source;Let’s+build+something+great!🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="venkateeshh" />
-</p>
+<h1 align="center">Hey there! 👋 I’m glad you found your way here. Dive into my projects!</h1>
 
 ---
 
 ### 🧑‍💻 About Me
 - 🔭 Currently working with **FullStack Developer**
-- ☁️ Exploring **** and **Serverless Tech**
-- 💬 Ask me about **React, MongoDB, Java,c,sql, DSA  etc.**
+- 💬 Ask me about **React, Node Js, Java,c,sql, DSA  etc.**
 - 👨‍💻 Portfolio: [Ashok Kumar Varma.github.app](https://ashok-kumarverma.github.io/Personal-Portfolio-Application/)
 - 📧 Reach me at: **ashokmr86230@gmail.com**
-- 📷 Fun Fact: **Capturing moments is my superpower!**
+- 📷 Fun Fact: **Travelling  is my superpower!**
 
 ---
 
-### 🌐 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/venkateeshh"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://instagram.com/venkateeshh"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://x.com/venkateeshh"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<h3 align="center">Tech Stack</h3>
+<p align="center"> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+</p>
 </p>
 
 ---
 
-### 💻 Tech Stack
-
-#### Languages  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-#### Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-
-#### Backend & Database  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-#### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+<h3 align="center">Connect with Me</h3>
+<br>
+<p align="center">
+  <a href="https://twitter.com/sonisuryansh_" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" width="40" height="40"/>
+  </a> | 
+  <a href="https://www.linkedin.com/in/suryansh-soni-0a244b294/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a> | 
+  <a href="https://www.instagram.com/_suryanshsoni/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+<h3 align="left">Projects</h3>
+<ul>
+  <li><strong> Project 1 </strong>:- This portfolio website serves as my professional online presence where I highlight my journey, technical expertise, and creative projects. It’s tailored to give you a quick but comprehensive insight into who I am and what I can do.
+<a href="https://ashok-kumarverma.github.io/Personal-Portfolio-Application/" target="_blank">Website Link</li>
+</ul>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkateeshh&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=venkateeshh&theme=radical" width="47%"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateeshh&layout=compact&theme=radical" width="40%">
-</p>
+<h3 align="center">GitHub Stats 😊</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonisuryansh&show_icons=true&locale=en&layout=compact" alt="https://github.com/sonisuryansh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonisuryansh&show_icons=true&locale=en" alt="https://github.com/sonisuryansh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonisuryansh&" alt="https://github.com/sonisuryansh" /></p>
 
 ---
 
@@ -87,8 +61,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=venkateeshh&theme=algolia&margin-w=10&no-frame=true"/>
 </p>
-
 ---
+
+<h3 align="center">LeetCode Stats 🤷‍♂️</h3>
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/sonisuryansh?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+</p>
 
 ### 🎥 Fun Animation
 
