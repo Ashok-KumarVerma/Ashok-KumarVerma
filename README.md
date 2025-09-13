@@ -72,7 +72,7 @@
 
 <h3 align="center">LeetCode Stats 🤷‍♂️</h3>
 <p align="left">
-  <img src="https://leetcode.com/u/DataDream/?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcode.com/u/DataDream/Ashok Kumar Verma?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ### 🎥 Fun Animation
