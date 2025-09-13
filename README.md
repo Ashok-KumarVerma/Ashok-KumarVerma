@@ -28,13 +28,13 @@
 <h3 align="center">Connect with Me</h3>
 <br>
 <p align="center">
-  <a href="https://twitter.com/sonisuryansh_" target="_blank">
+  <a href="https://x.com/AshokMr44847181" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" width="40" height="40"/>
   </a> | 
-  <a href="https://www.linkedin.com/in/suryansh-soni-0a244b294/" target="_blank">
+  <a href="linkedin.com/in/ashok-kumar-verma-481660282" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a> | 
-  <a href="https://www.instagram.com/_suryanshsoni/" target="_blank">
+  <a href="https://www.instagram.com/ashok_verma_2006/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
