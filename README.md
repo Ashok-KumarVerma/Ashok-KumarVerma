@@ -41,7 +41,7 @@
   <a href="https://www.youtube.com/@Legend_Coders" target="_blank">
     <img src="https://tse3.mm.bing.net/th/id/OIP.RI2TEiPyoY-pnAZKckCQAwHaHb?pid=Api&P=0&h=180" alt="Youtube" width="40" height="40"/>
   </a>|
-  a href="https://www.instagram.com/ashok_verma_2006/" target="_blank">
+  <a> href="https://www.instagram.com/ashok_verma_2006/" target="_blank">
     <img src="https://tse2.mm.bing.net/th/id/OIP.CVm99iUD3ejtcWYtLvMisQHaHa?pid=Api&P=0&h=180" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
