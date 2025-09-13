@@ -66,13 +66,13 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkateeshh&theme=algolia&margin-w=10&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashok-KumarVerma&theme=algolia&margin-w=10&no-frame=true"/>
 </p>
 ---
 
 <h3 align="center">LeetCode Stats 🤷‍♂️</h3>
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/sonisuryansh?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcode.com/u/DataDream/?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ### 🎥 Fun Animation
