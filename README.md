@@ -57,9 +57,9 @@
 ---
 
 <h3 align="center">GitHub Stats 😊</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonisuryansh&show_icons=true&locale=en&layout=compact" alt="https://github.com/sonisuryansh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonisuryansh&show_icons=true&locale=en" alt="https://github.com/sonisuryansh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonisuryansh&" alt="https://github.com/sonisuryansh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashok-KumarVerma&show_icons=true&locale=en&layout=compact" alt="https://github.com/Ashok-KumarVerma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashok-KumarVerma&show_icons=true&locale=en" alt="https://github.com/Ashok-KumarVerma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashok-KumarVerma&" alt="https://github.com/Ashok-KumarVerma" /></p>
 
 ---
 
